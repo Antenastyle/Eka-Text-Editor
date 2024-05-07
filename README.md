@@ -1,2 +1,2 @@
 # Eka Text Editor
- A Custom Text Editor made with C.
+ A Custom Terminal Text Editor made with C.
