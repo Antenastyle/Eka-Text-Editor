@@ -9,6 +9,7 @@
 
 ## Current Features
 - Read, write and save text files.
+- Search for a word or phrase in the text.
 
 ## Keys and Shortcuts
 ### Keys
@@ -19,3 +20,4 @@
 ### Shortcuts
 - `CTRL` + `q` to close the editor.
 - `CTRL` + `s` to save the file.
+- `CTRL` + `f` to search in the file.
